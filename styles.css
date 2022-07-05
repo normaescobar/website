@@ -437,6 +437,10 @@ footer{
     .language{
         width: calc(100% / 2);
     }
+    
+    .project__img{
+        max-height: 1000px;
+    }
 
     .project__description--para{
         font-size: 14px;
